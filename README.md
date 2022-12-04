@@ -5,6 +5,7 @@ Fonte de dados:
 <br>
 API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Central](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries). 
 <br>
+<br>
 <b>Modulos utilizados:</b> Numpy, Pandas, Matplotlib, Requests, BeautifulSoup, json.
 <br>
 <br>
@@ -21,7 +22,7 @@ API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Cent
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Salário Mínimo - Brasil](https://github.com/MonteiroOscar98/Salario-Minimo-Brasil/blob/main/Salario_Minimo_Brasil.ipynb)
+<b>Jupyter Notebook:</b> [Salário Mínimo - Brasil](https://github.com/MonteiroOscar98/Finance/blob/main/D%C3%ADvida_Externa_Brasil.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
