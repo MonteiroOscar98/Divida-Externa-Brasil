@@ -22,7 +22,7 @@ API Banco Central - [SGS - Sistema Gerenciador de Séries Temporais - Banco Cent
 <b>Tarefa 4:</b> Análise e representação dos conjuntos de dados processados.
 <br>
 <br>
-<b>Jupyter Notebook:</b> [Dívida Externa - Brasil](https://github.com/MonteiroOscar98/Finance/blob/main/D%C3%ADvida_Externa_Brasil.ipynb)
+<b>Jupyter Notebook:</b> [Dívida Externa - Brasil](https://github.com/MonteiroOscar98/Divida-Externa-Brasil/blob/main/D%C3%ADvida_Externa_Brasil.ipynb)
 <br>
 <b>Autor:</b> Oscar Monteiro
 <br>
